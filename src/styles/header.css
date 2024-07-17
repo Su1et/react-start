@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    background: white;
+    align-items: center;
+}
+ul{
+    list-style-type: none;
+}
+.logout-button {
+    text-align: center;
+    background-color: #4861a2;
+    color: #ffffff;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.logout-button:hover {
+    background-color: #3657ad;
+}

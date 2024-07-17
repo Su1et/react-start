@@ -1,0 +1,22 @@
+.orders-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.order-list {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.order-item {
+    border: 1px solid #8e5abe;
+    padding: 10px 100px 10px 30px;
+    margin-bottom: 10px;
+}
+
+.order-number {
+    font-weight: bold;
+    font-family: "Book Antiqua", serif;
+    font-size: 20px;
+}
